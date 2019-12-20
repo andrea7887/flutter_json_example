@@ -1,16 +1,8 @@
-# flutter_json_example
+# Flutter Json parsing example
 
-A new Flutter application.
+In this example you will learn how to download data in flutter with the http library, how to use the future builder, how to parse json data.
 
-## Getting Started
+## Resources
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Json data used in the project](https://s3-eu-west-1.amazonaws.com/kaleidosstudio.tutorial/flutter/json_example/data.json)
+- [Youtube Video](https://www.youtube.com/watch?v=nFz5xzoVUww)
